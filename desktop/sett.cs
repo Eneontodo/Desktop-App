@@ -11,12 +11,12 @@ namespace desktop
         {
             InitializeComponent();
             button1.Click += button1_Click;
-            // расширенное окно для выбора цвета
+        
             colorDialog1.FullOpen = true;
-            // установка начального цвета для colorDialog
+            
             colorDialog1.Color = Color.Black;
             colorDialog2.FullOpen = true;
-            // установка начального цвета для colorDialog
+            
             colorDialog2.Color = Color.Black;
             grap.Text = Properties.Settings.Default.grap_edit;
             browser.Text = Properties.Settings.Default.browser;
