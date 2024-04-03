@@ -1,0 +1,6 @@
+D:\desktop c#\v1.0.45\desktop\cmdll\bin\Debug\cmdll.dll
+D:\desktop c#\v1.0.45\desktop\cmdll\bin\Debug\cmdll.pdb
+D:\desktop c#\v1.0.45\desktop\cmdll\obj\Debug\cmdll.csproj.AssemblyReference.cache
+D:\desktop c#\v1.0.45\desktop\cmdll\obj\Debug\cmdll.csproj.CoreCompileInputs.cache
+D:\desktop c#\v1.0.45\desktop\cmdll\obj\Debug\cmdll.dll
+D:\desktop c#\v1.0.45\desktop\cmdll\obj\Debug\cmdll.pdb

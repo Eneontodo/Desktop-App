@@ -1,0 +1,12 @@
+D:\desktop c#\v1.0.45\desktop\cmdll\bin\Release\Sys.dll
+D:\desktop c#\v1.0.45\desktop\cmdll\bin\Release\Sys.pdb
+D:\desktop c#\v1.0.45\desktop\cmdll\obj\Release\cmdll.csproj.AssemblyReference.cache
+D:\desktop c#\v1.0.45\desktop\cmdll\obj\Release\cmdll.csproj.CoreCompileInputs.cache
+D:\desktop c#\v1.0.45\desktop\cmdll\obj\Release\Sys.dll
+D:\desktop c#\v1.0.45\desktop\cmdll\obj\Release\Sys.pdb
+C:\Users\telera_wiizz\Desktop\desktop\desktop\desktop c#\v1.0.45\desktop\cmdll\bin\Release\Sys.dll
+C:\Users\telera_wiizz\Desktop\desktop\desktop\desktop c#\v1.0.45\desktop\cmdll\bin\Release\Sys.pdb
+C:\Users\telera_wiizz\Desktop\desktop\desktop\desktop c#\v1.0.45\desktop\cmdll\obj\Release\cmdll.csproj.AssemblyReference.cache
+C:\Users\telera_wiizz\Desktop\desktop\desktop\desktop c#\v1.0.45\desktop\cmdll\obj\Release\cmdll.csproj.CoreCompileInputs.cache
+C:\Users\telera_wiizz\Desktop\desktop\desktop\desktop c#\v1.0.45\desktop\cmdll\obj\Release\Sys.dll
+C:\Users\telera_wiizz\Desktop\desktop\desktop\desktop c#\v1.0.45\desktop\cmdll\obj\Release\Sys.pdb
